@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import jinja2
-from IPython.core.display_functions import display
 from pandas.io.formats.style import Styler
 
 
